@@ -39,7 +39,7 @@ dependencies:
 
 flutter_native_splash:
   image: build/images/icone.jpg
-  color: 42a5f5
+  color: ffffff
   fill: true
 
 
