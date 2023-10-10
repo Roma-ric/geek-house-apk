@@ -17,15 +17,15 @@ class _Inscription extends State<Inscription> {
             child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Container(
+            /*Container(
               decoration: const BoxDecoration(
 
               ),
-              child: const Image(image: AssetImage("build/images/icone.png"),),
+              child: const Image(image: AssetImage("build/images/icone.jpg"),),
             ),
             const SizedBox(
               height: 20,
-            ),
+            ),*/
             const Text(
               "Bienvenue sur notre application mobile Geek House",
               style:
